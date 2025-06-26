@@ -1,4 +1,4 @@
-# Hey there! 👋🏾 I'm Joy Nyayieka
+## Hey there! 👋🏾 I'm Joy Nyayieka
 
  **Software Developer | Big Data Enthusiast | API Explorer**
 
